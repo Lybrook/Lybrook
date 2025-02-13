@@ -13,7 +13,6 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 - 🔭 **Current Focus:** Advancing my skills through Full-Stack Web Development at Moringa School and exploring Data Science at Regenesys School.  
 - 🌱 **What I Do:** Develop end-to-end applications that balance functional robustness with modern design.  
 - 💡 **My Ethos:** Deliver innovative solutions by combining technical excellence with proactive collaboration.  
-*(Learn more about my background in my resume :contentReference[oaicite:0]{index=0} and elevator pitch :contentReference[oaicite:1]{index=1}.)*
 
 ## Projects
 - **Furniture Website**  
@@ -30,10 +29,9 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 - **Databases & Tools:** SQLite, SQL Alchemy, Linux, Git, GitHub  
 - **Core Strengths:** RESTful API design, responsive UI/UX, project management, team building
 
-
 ## Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -65,7 +63,7 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 
 ## Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/omoshlybrook" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
   </a>
