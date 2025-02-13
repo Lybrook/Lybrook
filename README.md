@@ -16,11 +16,6 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 *(Learn more about my background in my resume :contentReference[oaicite:0]{index=0} and elevator pitch :contentReference[oaicite:1]{index=1}.)*
 
 ## Projects
-
-- **Furniture Inventory**  
-  A full-stack web application for managing furniture inventory—built using Python, Flask, JavaScript, React, and Tailwind CSS.  
-  [Live Demo](#) | [GitHub](https://github.com/omoshlybrook)
-
 - **Furniture Website**  
   A modern website showcasing completed projects and facilitating connections with carpenters, developed with JavaScript, React, and Tailwind CSS.  
   [Live Demo](#) | [GitHub](https://github.com/omoshlybrook)
@@ -35,24 +30,6 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 - **Databases & Tools:** SQLite, SQL Alchemy, Linux, Git, GitHub  
 - **Core Strengths:** RESTful API design, responsive UI/UX, project management, team building
 
-## Experience
-
-- **IT Technician** at *Khetia's Supermarkets* (Jan 2022 - May 2022)  
-  • Delivered IT support and troubleshooting to maintain optimal system performance.
-
-- **Enumerator** at *Government of Kenya* (Sep 2024 - Nov 2024)  
-  • Engaged with the public professionally, collecting essential data via an Electronic Registration System.
-
-## Education
-
-- **Full-Stack Web Development**  
-  *Moringa School, Nairobi* (Sep 2024 - Feb 2025)
-
-- **Data Science (Part-Time)**  
-  *Regenesys School, Nairobi* (Jan 2025 - Present)
-
-- **Bachelor’s Degree in Applied Computer Science**  
-  *Chuka University, Chuka, Tharaka-Nithi* (Nov 2023) :contentReference[oaicite:2]{index=2}
 
 ## Languages and Tools
 
@@ -101,13 +78,4 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
   <a href="https://x.com/LybrookOmondi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
   </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omoshlybrook&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omoshlybrook&theme=radical" alt="GitHub Streak"/>
 </p>
