@@ -1,9 +1,5 @@
 # Hi 👋, I'm Lybrook Omondi
 
-[![Spotify Now Playing](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/31zegvyskshoqgjww7eggcv2zkhq?si=btkH_Xr2ROSyrgU7uVYhoA)
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ## About Me
 
 **Turning complexity into creativity, one line of code at a time**
@@ -62,18 +58,3 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 </p>
 
 ## Connect with Me
-
-<p align="center">
-  <a href="https://github.com/omoshlybrook" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lybrook-omondi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="mailto:omoshlybrook@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="30" height="30"/>
-  </a>
-  <a href="https://x.com/LybrookOmondi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
-  </a>
-</p>
