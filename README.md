@@ -13,7 +13,7 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 ## Projects
 - **Furniture Website**  
   A modern website showcasing completed projects and facilitating connections with carpenters, developed with JavaScript, React, and Tailwind CSS.  
-  [Live Demo](https://kosalas.vercel.app) | [GitHub](https://github.com/lybrook)
+  [Live Demo](https://kosalas.vercel.app) | [GitHub](https://github.com/lybrook/furniture)
 
 - **Hotel-Reservation CLI**  
   A command-line application for hotel table reservations and customer management, created using Python, SQLite, and SQL Alchemy.  
