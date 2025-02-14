@@ -4,7 +4,7 @@
 
 **Turning complexity into creativity, one line of code at a time**
 
-I'm a passionate **Full-Stack Software Developer** with deep expertise in Python, Flask, JavaScript, and React. I thrive on transforming intricate challenges into elegant solutions—whether that's through designing sleek, responsive UIs with Tailwind CSS or developing robust back-end systems with Flask and SQLite. My journey in tech is driven by continuous learning and hands-on project experience, and I'm excited to collaborate on innovative projects that make a global impact.  
+I'm a passionate **Full-Stack Software Developer** with deep expertise in Python, Flask, JavaScript, and React. I thrive on transforming intricate challenges into elegant solutions—whether through designing sleek, responsive UIs with Tailwind CSS or developing robust back-end systems with Flask and SQLite. My journey in tech is driven by continuous learning and hands-on project experience, and I'm excited to collaborate on innovative projects that make a global impact.  
   
 - 🔭 **Current Focus:** Advancing my skills through Full-Stack Web Development at Moringa School and exploring Data Science at Regenesys School.  
 - 🌱 **What I Do:** Develop end-to-end applications that balance functional robustness with modern design.  
@@ -13,11 +13,11 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 ## Projects
 - **Furniture Website**  
   A modern website showcasing completed projects and facilitating connections with carpenters, developed with JavaScript, React, and Tailwind CSS.  
-  [Live Demo](#) | [GitHub](https://github.com/omoshlybrook)
+  [Live Demo](https://kosalas.vercel.app) | [GitHub](https://github.com/lybrook)
 
 - **Hotel-Reservation CLI**  
   A command-line application for hotel table reservations and customer management, created using Python, SQLite, and SQL Alchemy.  
-  [GitHub](https://github.com/omoshlybrook)
+  [GitHub](https://github.com/Lybrook/Hotel-Reservationn)
 
 ## Technical Skills
 
