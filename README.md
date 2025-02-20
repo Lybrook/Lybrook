@@ -58,3 +58,4 @@ I'm a passionate **Full-Stack Software Developer** with deep expertise in Python
 </p>
 
 ## Connect with Me
+[![Hits](https://u8views.com/api/v1/github/profiles/180912245/views/day-week-month-total-count.svg)](https://u8views.com/github/Lybrook)
