@@ -1,61 +1,88 @@
-# Hi 👋, I'm Lybrook Omondi
+# Hi there 👋, I'm Lybrook Omondi
+
+I’m a **Junior Full-Stack Developer** with a focus on modern web technologies like **Python (Flask), JavaScript/TypeScript, React, and Tailwind CSS**. I love transforming complex challenges into sleek, responsive, and scalable web applications.
+
+**Open to:** Junior Full-Stack Developer roles, freelance web projects, and collaborations.
+
+---
 
 ## About Me
+- 🏫 **Currently Learning**: Advancing my full-stack skills at Moringa School and exploring Data Science at Regenesys.
+- 🚀 **Passionate About**: Building end-to-end solutions that balance robust back-end architecture with modern UI/UX.
+- 🏆 **Driven By**: Continuous learning, hands-on experimentation, and open-source collaboration.
 
-**Turning complexity into creativity, one line of code at a time**
+---
 
-I'm a passionate **Full-Stack Software Developer** with deep expertise in Python, Flask, JavaScript, and React. I thrive on transforming intricate challenges into elegant solutions—whether through designing sleek, responsive UIs with Tailwind CSS or developing robust back-end systems with Flask and SQLite. My journey in tech is driven by continuous learning and hands-on project experience, and I'm excited to collaborate on innovative projects that make a global impact.  
-  
-- 🔭 **Current Focus:** Advancing my skills through Full-Stack Web Development at Moringa School and exploring Data Science at Regenesys School.  
-- 🌱 **What I Do:** Develop end-to-end applications that balance functional robustness with modern design.  
-- 💡 **My Ethos:** Deliver innovative solutions by combining technical excellence with proactive collaboration.  
+## Why Hire Me?
+- I’m a **detail-oriented developer** who loves solving real-world problems with clean, scalable code.
+- I **adapt quickly** to new tech and enjoy collaborating with cross-functional teams.
+- I’m **eager to grow** my full-stack skills and contribute to meaningful projects.
+
+---
 
 ## Projects
-- **Furniture Website**  
-  A modern website showcasing completed projects and facilitating connections with carpenters, developed with JavaScript, React, and Tailwind CSS.  
-  [Live Demo](https://kosalas.vercel.app) | [GitHub](https://github.com/lybrook/furniture)
 
-- **Hotel-Reservation CLI**  
-  A command-line application for hotel table reservations and customer management, created using Python, SQLite, and SQL Alchemy.  
-  [GitHub](https://github.com/Lybrook/Hotel-Reservationn)
+### 1. Furniture Website
+A modern website showcasing completed carpentry projects and facilitating connections with carpenters.
+
+- **Tech:** JavaScript, React, Tailwind CSS  
+- **Features:** Responsive UI, dynamic project listings, easy navigation  
+- [Live Demo](#) | [GitHub Repo](#)
+
+### 2. Hotel-Reservation CLI
+A command-line application for hotel table reservations and customer management.
+
+- **Tech:** Python, SQLite, SQLAlchemy  
+- **Features:** Command-line interface for booking and managing reservations, user-friendly prompts  
+- [GitHub Repo](#)
+
+### 3. Pet-Adoption-App
+An application that helps users find adoptable pets and streamlines the adoption process.
+
+- **Tech:** JavaScript, React, Node (adjust if needed)  
+- **Features:** Pet listings, adoption request form, simple dashboard  
+- [GitHub Repo](#)
+
+### 4. Inventory-Furniture
+A system to track furniture inventory, sales, and restocking.
+
+- **Tech:** JavaScript, Node (adjust if needed)  
+- **Features:** Inventory CRUD operations, basic reporting  
+- [GitHub Repo](#)
+
+*(Tip: Update project descriptions, links, and features to match your actual implementations.)*
+
+---
 
 ## Technical Skills
 
-- **Languages & Frameworks:** Python, Flask, JavaScript, TypeScript, React, Tailwind CSS  
-- **Databases & Tools:** SQLite, SQL Alchemy, Linux, Git, GitHub  
-- **Core Strengths:** RESTful API design, responsive UI/UX, project management, team building
+**Front End**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-## Languages and Tools
+**Back End**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white) 
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?logo=python&logoColor=white)
 
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+**Databases & Tools**  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-## Connect with Me
-[![Hits](https://u8views.com/api/v1/github/profiles/180912245/views/day-week-month-total-count.svg)](https://u8views.com/github/Lybrook)
+---
+
+## Connect With Me
+- **Email:** [omoshlybrook@gmail.com](mailto:omoshlybrook@gmail.com)
+- **Portfolio:** [lybrooks-portfolio.vercel.app](https://lybrooks-portfolio.vercel.app)
+- **LinkedIn:** [Your LinkedIn URL](#) *(optional)*
+
+---
+
+## GitHub Stats (Optional)
+![Lybrook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lybrook&show_icons=true&theme=radical)
+
+---
