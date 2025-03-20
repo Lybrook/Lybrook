@@ -7,7 +7,7 @@ I’m a **Junior Full-Stack Developer** with a focus on modern web technologies 
 ---
 
 ## About Me
-- 🏫 **Currently Learning**: Advancing my full-stack skills at Moringa School and exploring Data Science at Regenesys.
+- 🏫 **Currently Learning**: Advancing my back-end skills through Data Science at Regenesys.
 - 🚀 **Passionate About**: Building end-to-end solutions that balance robust back-end architecture with modern UI/UX.
 - 🏆 **Driven By**: Continuous learning, hands-on experimentation, and open-source collaboration.
 
@@ -22,36 +22,40 @@ I’m a **Junior Full-Stack Developer** with a focus on modern web technologies 
 
 ## Projects
 
-### 1. Furniture Website
-A modern website showcasing completed carpentry projects and facilitating connections with carpenters.
+### . Personal Website
+A modern website showcasing my projects and facilitating connections with me.
+
+- **Tech:** TypeScript, NextJS, Shadcn, and Tailwind CSS  
+- **Features:** Responsive UI, dynamic project listings, easy navigation  
+- [Live Demo](https://lybrooks-portfolio.vercel.app/)) 
+
+### . Eventify
+An event management and ticketing platform.
+
+- **Tech:** Tailwind, Python (PostgresSQL) and JavaScript (React).  
+- **Features:** Signup and login system using JWT, showcases featured events, upcoming events, and popular categories, event organizers to create and manage events, users to select ticket types, and purchase tickets.   
+- [Live Demo](https://group-5-git-main-irine-kimetos-projects.vercel.app/)
+
+### . Furniture Showcase Website
+A modern website showcasing completed carpentry projects and facilitating connections with the carpenter.
 
 - **Tech:** JavaScript, React, Tailwind CSS  
 - **Features:** Responsive UI, dynamic project listings, easy navigation  
-- [Live Demo](#) | [GitHub Repo](#)
+- [Live Demo](https://kosalas.vercel.app/))
 
-### 2. Hotel-Reservation CLI
-A command-line application for hotel table reservations and customer management.
-
-- **Tech:** Python, SQLite, SQLAlchemy  
-- **Features:** Command-line interface for booking and managing reservations, user-friendly prompts  
-- [GitHub Repo](#)
-
-### 3. Pet-Adoption-App
+### . Pet-Adoption-App
 An application that helps users find adoptable pets and streamlines the adoption process.
 
-- **Tech:** JavaScript, React, Node (adjust if needed)  
+- **Tech:** JavaScript, React, Node. 
 - **Features:** Pet listings, adoption request form, simple dashboard  
-- [GitHub Repo](#)
+- [Live Demo](https://pet-adoption-app-seven.vercel.app/)
 
-### 4. Inventory-Furniture
-A system to track furniture inventory, sales, and restocking.
+### . Inventory-Furniture
+A system to track furniture inventory, and restocking.
 
-- **Tech:** JavaScript, Node (adjust if needed)  
-- **Features:** Inventory CRUD operations, basic reporting  
-- [GitHub Repo](#)
-
-*(Tip: Update project descriptions, links, and features to match your actual implementations.)*
-
+- **Tech:** JavaScript, React, Tailwind, and PostgresSQL.   
+- **Features:** View available furniture, and create new furniture.  
+- [Live Demo](https://e-commerce-furniture-six.vercel.app/products)
 ---
 
 ## Technical Skills
@@ -77,8 +81,8 @@ A system to track furniture inventory, sales, and restocking.
 
 ## Connect With Me
 - **Email:** [omoshlybrook@gmail.com](mailto:omoshlybrook@gmail.com)
-- **Portfolio:** [lybrooks-portfolio.vercel.app](https://lybrooks-portfolio.vercel.app)
-- **LinkedIn:** [Your LinkedIn URL](#) *(optional)*
+- **Portfolio:** [Personal Website](https://lybrooks-portfolio.vercel.app)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lybrook-omondi-51601a20b/) 
 
 ---
 
