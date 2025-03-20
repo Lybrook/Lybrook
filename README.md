@@ -7,7 +7,7 @@ I’m a **Junior Full-Stack Developer** with a focus on modern web technologies 
 ---
 
 ## About Me
-- 🏫 **Currently Learning**: Advancing my back-end skills through Data Science at Regenesys.
+- 🏫 **Currently Learning**: Advancing my back-end skills in Data Science at Regenesys.
 - 🚀 **Passionate About**: Building end-to-end solutions that balance robust back-end architecture with modern UI/UX.
 - 🏆 **Driven By**: Continuous learning, hands-on experimentation, and open-source collaboration.
 
@@ -22,35 +22,35 @@ I’m a **Junior Full-Stack Developer** with a focus on modern web technologies 
 
 ## Projects
 
-### . Personal Website
+### 1. Personal Website
 A modern website showcasing my projects and facilitating connections with me.
 
 - **Tech:** TypeScript, NextJS, Shadcn, and Tailwind CSS  
 - **Features:** Responsive UI, dynamic project listings, easy navigation  
-- [Live Demo](https://lybrooks-portfolio.vercel.app/)) 
+- [Live Demo](https://lybrooks-portfolio.vercel.app/) 
 
-### . Eventify
+### 2. Eventify
 An event management and ticketing platform.
 
 - **Tech:** Tailwind, Python (PostgresSQL) and JavaScript (React).  
 - **Features:** Signup and login system using JWT, showcases featured events, upcoming events, and popular categories, event organizers to create and manage events, users to select ticket types, and purchase tickets.   
 - [Live Demo](https://group-5-git-main-irine-kimetos-projects.vercel.app/)
 
-### . Furniture Showcase Website
+### 3. Furniture Showcase Website
 A modern website showcasing completed carpentry projects and facilitating connections with the carpenter.
 
 - **Tech:** JavaScript, React, Tailwind CSS  
 - **Features:** Responsive UI, dynamic project listings, easy navigation  
-- [Live Demo](https://kosalas.vercel.app/))
+- [Live Demo](https://kosalas.vercel.app/)
 
-### . Pet-Adoption-App
+### 4. Pet-Adoption-App
 An application that helps users find adoptable pets and streamlines the adoption process.
 
 - **Tech:** JavaScript, React, Node. 
 - **Features:** Pet listings, adoption request form, simple dashboard  
 - [Live Demo](https://pet-adoption-app-seven.vercel.app/)
 
-### . Inventory-Furniture
+### 5. Inventory-Furniture
 A system to track furniture inventory, and restocking.
 
 - **Tech:** JavaScript, React, Tailwind, and PostgresSQL.   
@@ -86,7 +86,7 @@ A system to track furniture inventory, and restocking.
 
 ---
 
-## GitHub Stats (Optional)
+## GitHub Stats
 ![Lybrook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lybrook&show_icons=true&theme=radical)
 
 ---
