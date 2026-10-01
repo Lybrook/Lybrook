@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Lybrook Omondi
 
-I’m a **Junior Full-Stack Developer** with a focus on modern web technologies like **Python (Flask), JavaScript/TypeScript, React, and Tailwind CSS**. I love transforming complex challenges into sleek, responsive, and scalable web applications.
+I’m a **Full-Stack Developer** with a focus on modern web technologies like **Python (Flask), JavaScript/TypeScript, React, and Tailwind CSS**. I love transforming complex challenges into sleek, responsive, and scalable web applications.
 
-**Open to:** Junior Full-Stack Developer roles, freelance web projects, and collaborations.
+**Open to:** Full-Stack Developer roles, freelance web projects, and collaborations.
 
 ---
 
@@ -22,40 +22,28 @@ I’m a **Junior Full-Stack Developer** with a focus on modern web technologies 
 
 ## Projects
 
-### 1. Personal Website
+### 1. Fikia X Jenga web agency
 A modern website showcasing my projects and facilitating connections with me.
 
 - **Tech:** TypeScript, NextJS, Shadcn, and Tailwind CSS  
 - **Features:** Responsive UI, dynamic project listings, easy navigation  
-- [Live Demo](https://lybrooks-portfolio.vercel.app/) 
+- [Live Demo](https://www.fikiaxjenga.co.ke) 
 
 ### 2. Eventify
 An event management and ticketing platform.
 
 - **Tech:** Tailwind, Python (PostgresSQL) and JavaScript (React).  
 - **Features:** Signup and login system using JWT, showcases featured events, upcoming events, and popular categories, event organizers to create and manage events, users to select ticket types, and purchase tickets.   
-- [Live Demo](https://group-5-git-main-irine-kimetos-projects.vercel.app/)
+- [Live Demo](https://eventify-coral-mu.vercel.app/)
 
-### 3. Furniture Showcase Website
-A modern website showcasing completed carpentry projects and facilitating connections with the carpenter.
+### 3. CITAM church Kitale
+A modern website showcasing for a church.
 
 - **Tech:** JavaScript, React, Tailwind CSS  
 - **Features:** Responsive UI, dynamic project listings, easy navigation  
-- [Live Demo](https://kosalas.vercel.app/)
+- [Live Demo](https://citam-kitale.vercel.app/)
 
-### 4. Pet-Adoption-App
-An application that helps users find adoptable pets and streamlines the adoption process.
 
-- **Tech:** JavaScript, React, Node. 
-- **Features:** Pet listings, adoption request form, simple dashboard  
-- [Live Demo](https://pet-adoption-app-seven.vercel.app/)
-
-### 5. Inventory-Furniture
-A system to track furniture inventory, and restocking.
-
-- **Tech:** JavaScript, React, Tailwind, and PostgresSQL.   
-- **Features:** View available furniture, and create new furniture.  
-- [Live Demo](https://e-commerce-furniture-six.vercel.app/products)
 ---
 
 ## Technical Skills
