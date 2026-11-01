@@ -1,13 +1,12 @@
 # Hi there 👋, I'm Lybrook Omondi
 
-I’m a **Full-Stack Developer** with a focus on modern web technologies like **Python (Flask), JavaScript/TypeScript, React, and Tailwind CSS**. I love transforming complex challenges into sleek, responsive, and scalable web applications.
+I’m a **Full-Stack Developer** with a focus on modern web technologies . I love transforming complex challenges into sleek, responsive, and scalable web applications.
 
 **Open to:** Full-Stack Developer roles, freelance web projects, and collaborations.
 
 ---
 
 ## About Me
-- 🏫 **Currently Learning**: Advancing my back-end skills in Data Science at Regenesys.
 - 🚀 **Passionate About**: Building end-to-end solutions that balance robust back-end architecture with modern UI/UX.
 - 🏆 **Driven By**: Continuous learning, hands-on experimentation, and open-source collaboration.
 
@@ -74,7 +73,5 @@ A modern website showcasing for a church.
 
 ---
 
-## GitHub Stats
-![Lybrook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lybrook&show_icons=true&theme=radical)
 
 ---
